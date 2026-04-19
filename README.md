@@ -1,6 +1,6 @@
 Overview of the Research Assignment:
 - The research assignment was divided into 5 segments.
-   . Data Fundamental concepts: In  this section data we had to define data storage and architecure
+   . Data Fundamental concepts: In  this section we had to define data storage and architecure
      concepts, data processing and management concepts, different types of data and data storage
      formats.
    . Artificial Intelligence and Machine Learning concepts: In this section we had to define core
@@ -16,7 +16,7 @@ Overview of the Research Assignment:
      and AI can affecting our future career and everyday life.
 
   - Purpose of the research assigment:
-  . The aim of this  research assignment was to learn and understand the role in the ecosystem b
-    between the data analyst, AI and Developers and data how they are governed and regulated.
+  . The aim of this  research assignment was to learn and understand the role in the ecosystem 
+    between the data analyst, AI and Developers and data how it's governed and regulated.
 
  
